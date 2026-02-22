@@ -1,113 +1,113 @@
 TYPENOVA
 ========
 
-TYPENOVA est un jeu de frappe au clavier dans lequel vous pilotez un vaisseau spatial
-a travers la galaxie Typea. 
+TYPENOVA is a typing game in which you pilot a spaceship through the Typea galaxy.
 
-LANCEMENT
----------
-Double-cliquez sur TYPENOVA.exe pour demarrer le jeu.
-Aucune installation n'est requise.
+GETTING STARTED
+---------------
+Double-click TYPENOVA.exe to launch the game.
+No installation required.
 
-Vos sons personnalises importés sont stockes dans :
-  sounds\  (dossier visible a cote de TYPENOVA.exe)
-
-
-COMMENT JOUER
--------------
-- Tapez les mots qui defilent de droite a gauche
-- Un mot commence a se saisir automatiquement des la premiere lettre correspondante
-- Backspace corrige la derniere lettre saisie
-- Les mots non typés atteignant le bord gauche font perdre une vie
-- La partie se termine quand le compteur de vies atteint zero
-
-Touches :
-  Lettres       Taper les mots
-  Backspace     Corriger une faute
-  Echap         Pause / Retour au menu
+Your imported custom sounds are stored in:
+  sounds\  (folder located next to TYPENOVA.exe)
 
 
-NIVEAUX DE DIFFICULTE
----------------------
-Easy      Mots courts, vitesse reduite, 7 vies
-Medium    Mots de longueur moyenne, vitesse normale, 5 vies
-Hard      Mots longs, vitesse elevee, 4 vies
-Expert    Mots tres longs, vitesse tres elevee, 3 vies
-X2        Mode extreme, 1 vie (se debloque en progressant)
+HOW TO PLAY
+-----------
+- Type the words scrolling from right to left
+- A word starts being typed automatically as soon as you press its first letter
+- Backspace corrects the last letter typed
+- Words that reach the left edge without being typed cost you a life
+- The game ends when your life counter reaches zero
 
-La difficulte se change dans le menu OPTIONS avant de lancer une partie.
+Controls:
+  Letters       Type words
+  Backspace     Fix a mistake
+  Escape        Pause / Return to menu
+
+
+DIFFICULTY LEVELS
+-----------------
+Easy      Short words, reduced speed, 7 lives
+Medium    Medium-length words, normal speed, 5 lives
+Hard      Long words, high speed, 4 lives
+Expert    Very long words, very high speed, 3 lives
+X2        Extreme mode, 1 life (unlocked by progressing)
+
+Difficulty can be changed in the OPTIONS menu before starting a game.
 
 
 POWER-UPS
 ---------
-Des power-ups apparaissent rarement lors de la frappe de mots. Cliquez dessus
-pour les activer avant qu'ils disparaissent.
+Power-ups appear occasionally when words are typed. Click them to activate
+before they disappear.
 
-  Coeur     Recupere une vie
-  Etoile    Multiplie le score x2 pendant 10 secondes
-  Bombe     Detruit le mot le plus proche du bord
-  Horloge   Ralentit tous les mots pendant 6 secondes
-  Flamme    Gele le timer de combo pendant 8 secondes
+  Heart     Recover one life
+  Star      Double your score for 10 seconds
+  Bomb      Destroy the word closest to the edge
+  Clock     Slow all words for 6 seconds
+  Flame     Freeze the combo timer for 8 seconds
 
-Les mots dores (rares) valent 10 fois leur valeur normale.
+Golden words (rare) are worth 10 times their normal value.
 
 
-MODIFICATEURS
--------------
-Avant chaque partie, vous pouvez activer des modificateurs pour augmenter le
-challenge et le multiplicateur de score final.
+MODIFIERS
+---------
+Before each game, you can activate modifiers to increase the challenge
+and the final score multiplier.
 
-  X2 Vitesse      Vitesse double, musique acceleree       (score x1.5)
-  Sans Items      Aucun power-up en jeu                   (score x1.3)
-  Mots Pieges     Des mots rouges a eviter apparaissent   (score x1.3)
-  Miroir          Affichage en miroir                     (score x1.75)
-  Mots Longs      Ajout de mots de 10 a 20 lettres        (score x1.4)
-  Precision       La touche Backspace est desactivee      (score x1.5)
+  X2 Speed      Double speed and music tempo        (score x1.5)
+  No Items      No power-ups during the game        (score x1.3)
+  Trap Words    Red words to avoid appear           (score x1.3)
+  Mirror        Mirrored display                    (score x1.75)
+  Long Words    Adds words of 10 to 20 letters      (score x1.4)
+  Precision     Backspace is disabled               (score x1.5)
 
-Certains modificateurs se debloquent en progressant dans le jeu.
+Some modifiers unlock as you progress through the game.
 
 
 PROGRESSION
 -----------
-Chaque partie rapporte de l'XP en fonction du score, de la difficulte et des
-modificateurs actifs. L'XP fait monter votre niveau de pilote.
+Each game awards XP based on your score, difficulty, and active modifiers.
+XP increases your pilot level.
 
-En montant de niveau, vous debloquez :
-- De nouveaux themes visuels
-- Des decorations pour l'ecran de jeu 
-- Des skins pour votre vaisseau
-- Des sons de frappe supplementaires
-- Des modificateurs de partie
+Leveling up unlocks:
+- New visual themes
+- In-game decorations
+- Rocket skins
+- Additional typing sounds
+- Game modifiers
 
-Les succès recompensent des accomplissements specifiques (mots tapes,
-combos, parties jouees, etc.). Consultez l'ecran SUCCES depuis le menu
-principal pour suivre votre progression.
-
-
-PERSONNALISATION
-----------------
-Depuis le menu OPTIONS vous pouvez modifier :
-- La difficulte
-- Le theme visuel (couleurs de l'interface)
-- La police d'ecriture
-- Le style de curseur
-- Les decorations en jeu
-- Le skin du vaisseau
-- Le son de frappe 
-- La musique de fond
-- Les volumes
-
-Sons personnalises :
-  Vous pouvez importer vos propres sons de frappe ou musiques de fond via
-  les boutons "+" dans la section sons des OPTIONS. Les fichiers acceptes
-  sont .wav, .mp3. Les fichiers importes sont sauvegardes dans le
-  dossier sounds\ a cote de l'executable.
+Achievements reward specific accomplishments (words typed, combos, games played,
+etc.). Check the ACHIEVEMENTS screen from the main menu to track your progress.
 
 
-CONFIGURATION MINIMALE
-----------------------
-  Systeme      Windows 10 ou superieur
-  Processeur   Tout processeur moderne
-  Memoire      512 MB RAM
-  Affichage    1200 x 780 ou plus grand
-  Clavier      Requis
+CUSTOMIZATION
+-------------
+From the OPTIONS menu you can change:
+- Difficulty
+- Visual theme (interface color scheme)
+- Font
+- Cursor style
+- In-game decorations
+- Rocket skin
+- Typing sound
+- Background music
+- Volume levels
+
+Custom sounds and music:
+  You can import your own typing sounds or background music using the "+" buttons
+  in the sound section of OPTIONS. Accepted formats are .wav and .mp3.
+  Imported files are saved in the sounds\ folder next to the executable.
+
+Custom fonts:
+  You can also import your own .ttf font files.
+
+
+MINIMUM REQUIREMENTS
+--------------------
+  OS           Windows 10 or later
+  CPU          Any modern processor
+  Memory       512 MB RAM
+  Display      1200 x 780 or larger
+  Input        Keyboard required
