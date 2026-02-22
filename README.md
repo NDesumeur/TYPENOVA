@@ -2,7 +2,7 @@ TYPENOVA
 ========
 
 TYPENOVA is a typing game in which you pilot a spaceship through the Typea galaxy.
-Install Typenova in the release section.
+Install TYPENOVA in the release section.
 
 GETTING STARTED
 ---------------
